@@ -51,7 +51,7 @@ The program uses multiple **clients** that request - in this case a simple prime
 - Receives and processes the requests.
 - Sends the response to the request's RequestHandler.
 - In the case of writing: They also write the answer in the respective file.
-- If it is read, it sends the entire file information to the request's RequestHandler.
+- If it is **read**, it sends the entire file information to the client's RequestHandler.
 
 #### Data Files
 - Three text files to store the writings made by the servers.
