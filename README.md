@@ -1,11 +1,11 @@
-## Distributed Systems Architecture - Clients/Balancer/Servers
+## Distributed Systems Architecture: Client-Balancer-Server
 
 ### What does it do?
 The program uses multiple **clients** that request - in this case a simple prime number verification - to **servers**. Every request is controlled by the **balancer** which is composed of a request handler, a requests queue, and a dispatcher that sends the requests to servers and handles the synchronization of the database (each server file). To allow multiple clients to make requests, sockets programming, multithreading and concurrent techniques were used.
 
 ### Architecture
 <p align="center" width="100%">
-    <img width="50%" src="https://raw.githubusercontent.com/alexandreclem/Proxy/master/images/img.png">    
+    <img width="50%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img.png">    
 </p>
 
 ### Description
@@ -62,12 +62,12 @@ The program uses multiple **clients** that request - in this case a simple prime
 
 **Program Execution**
 <p align="center" width="100%">
-    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/Proxy/master/images/img_2.png">    
+    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img_2.png">    
 </p>
 
 **Data Synchronized**
 <p align="center" width="100%">
-    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/Proxy/master/images/img_2.png">    
+    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img_3.png">    
 </p>
 
 
