@@ -5,7 +5,7 @@ The program uses multiple **clients** that request - in this case a simple prime
 
 ### Architecture
 <p align="center" width="100%">
-    <img width="50%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img.png">    
+    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img.png">    
 </p>
 
 ### Description
