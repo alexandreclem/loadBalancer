@@ -75,7 +75,7 @@ The program uses multiple **clients** that request - in this case a simple prime
 ### How to run?
 - Clone the Repository
     ```bash
-    $ git clone https://github.com/alexandreclem/Proxy.git
+    $ git clone https://github.com/alexandreclem/loadBalancer.git
     ```
 - Compile 
     
