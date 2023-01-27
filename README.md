@@ -60,12 +60,12 @@ The program uses multiple **clients** that request - in this case a simple prime
 
 ### The Program
 
-**Program Execution**
+#### Program Execution
 <p align="center" width="100%">
     <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img_2.png">    
 </p>
 
-**Data Synchronized**
+#### Data Synchronized
 <p align="center" width="100%">
     <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/loadBalancer/master/images/img_3.png">    
 </p>
